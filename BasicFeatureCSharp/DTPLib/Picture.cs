@@ -19,12 +19,12 @@ namespace DTPLib
 
         public void Draw()
         {
-            Console.WriteLine("Drawing piciture on screen");
+            Console.WriteLine("Drawing picture on screen");
         }
 
         public void Print()
         {
-            Console.WriteLine("Printing piciture on Inkjet printer");
+            Console.WriteLine("Printing picture on Inkjet printer");
         }
     }
 }

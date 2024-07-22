@@ -81,19 +81,4 @@ Complex c4 = c2 - c1;
 Complex c5 = c1 / c2;
 Complex c6 = c1 * c2;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Console.ReadLine();

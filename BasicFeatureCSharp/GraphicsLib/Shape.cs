@@ -9,7 +9,7 @@
 
         public   void Draw()
         {
-            Console.WriteLine("Drawing generice Shape");
+            Console.WriteLine("Drawing Generic Shape");
 
         }
 

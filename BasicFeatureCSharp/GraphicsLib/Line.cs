@@ -8,9 +8,9 @@ namespace GraphicsLib
 {
     public  class Line:Shape
     {
-        public  new    void Draw()
+        public  new void Draw()
         {
-            Console.WriteLine("Drawing generice Shape");
+            Console.WriteLine("Drawing Generic Shape");
         }
 
     }

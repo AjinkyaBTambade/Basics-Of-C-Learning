@@ -11,7 +11,7 @@ namespace GraphicsLib
 
         public  new  void Draw()
         {
-            Console.WriteLine("Drawing generice Shape");
+            Console.WriteLine("Drawing Generic Shape");
 
         }
     }

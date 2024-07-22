@@ -7,7 +7,7 @@
             Console.WriteLine("Shape constructor is called.");
         }  
 
-        public   void Draw()
+        public void Draw()
         {
             Console.WriteLine("Drawing Generic Shape");
 
